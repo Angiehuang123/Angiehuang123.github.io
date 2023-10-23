@@ -1,15 +1,12 @@
 -
-  name: 'Adaptive Single Photon Compressed Imaging Based on Constructing a Smart Threshold Matrix'
+  name: 'Analysis Project of Investment Strategy'
   description: >
-    Single photon imaging system is a photon counting based singel pixel camera, which 
-    takes picture with compressed sensing (CS) theory. We proposed an smart adaptive 
-    measurement matrix to improve the performance of CS reconstruction ability. The 
-    experiement shows our smart matrix could work for many algorithms and could be used
-    for modify any kind of measurement matrix. 
-  image: /img/compressedSPC.jpg
-  url: https://www.mdpi.com/1424-8220/18/10/3449
-  time: 2018
-  org: NCU
+   Used STATA from regression analysisi of the portofolio established by Markowitz theory, based on the Fama French
+   three-factor model and Fama French three-factor model, to calculate excess returns of recommended stocks. Concluded that 
+   the strategy that constructed a portfolio with Bloomberg's algorithm ccould achieve greater returns for investors. 
+  image: /img/Project.png
+  time: 2019
+
 # -
 #   name: 'Underwater spectrophotometer for in-situ seawater COD monitoring'
 #   description: >
