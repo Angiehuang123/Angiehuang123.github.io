@@ -1,9 +1,9 @@
 -
   name: 'Analysis Project of Investment Strategy'
   description: >
-   Used STATA from regression analysisi of the portofolio established by Markowitz theory, based on the Fama French
+   Used STATA from regression analysis of the portfolio established by Markowitz theory, based on the Fama French
    three-factor model and Fama French three-factor model, to calculate excess returns of recommended stocks. Concluded that 
-   the strategy that constructed a portfolio with Bloomberg's algorithm ccould achieve greater returns for investors. 
+   the strategy that constructed a portfolio with Bloomberg's algorithm could achieve greater returns for investors. 
   image: /img/Project.png
   time: 2019
 
